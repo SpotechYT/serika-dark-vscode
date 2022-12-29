@@ -12,7 +12,7 @@ With this color Palette (Excluding the background blue):
 ![colors](https://github.com/SpotechYT/serika-dark/blob/main/assets/palette.png)
 
 ## To install
-Download From the VS Code Store: https://marketplace.visualstudio.com/manage/publishers/SpotechYT/extensions/serika-dark/hub
+Download From the VS Code Store: https://marketplace.visualstudio.com/items?itemName=SpotechYT.serika-dark
 
 **OR**
 
