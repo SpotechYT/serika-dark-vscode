@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark-vscode/main/assets/Logo.jpg" height="200"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SpotechYT/Serika-Dark/main/Logo.jpg" height="200"></p>
 <h1 align="center">Serika Dark</h1>
 <p align="center">A Vs Code theme bassed on my Serika Dark Theme</p>
 
@@ -10,10 +10,6 @@ Have any suggestions? Want me to port this theme elsewhere? email me: hanielmikh
 ![python](https://raw.githubusercontent.com/SpotechYT/serika-dark-vscode/main/assets/example_python.png)
 
 Bassed on the Vs Code Github Theme: https://github.com/primer/github-vscode-theme
-
-With this color Palette (Excluding the background blue):
-
-![colors](https://raw.githubusercontent.com/SpotechYT/serika-dark-vscode/main/assets/palette.png)
 
 ## To install
 Download From the VS Code Store: https://marketplace.visualstudio.com/items?itemName=SpotechYT.serika-dark
