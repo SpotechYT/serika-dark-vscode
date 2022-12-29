@@ -2,6 +2,8 @@
 <h1 align="center">Serika Dark</h1>
 <p align="center">A theme bassed on Serika Dark theme on Monkey Type!</p>
 
+Get the Matching Wallpapers: https://github.com/SpotechYT/serika-dark-wallpapers
+
 ### Python Code
 ![python](https://raw.githubusercontent.com/SpotechYT/serika-dark-vscode/main/assets/example_python.png)
 
