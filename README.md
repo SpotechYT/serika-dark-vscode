@@ -1,8 +1,8 @@
 <p align="center"><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark-vscode/main/assets/Logo.jpg" height="200"></p>
 <h1 align="center">Serika Dark</h1>
-<p align="center">A theme bassed on Serika Dark theme on Monkey Type!</p>
+<p align="center">A Vs Code theme bassed on my Serika Dark Theme</p>
 
-Get the Matching Wallpapers: https://github.com/SpotechYT/serika-dark-wallpapers
+Get the full Theme: https://github.com/SpotechYT/Serika-Dark
 
 Have any suggestions? Want me to port this theme elsewhere? email me: hanielmikhaiel@gmail.com
 
