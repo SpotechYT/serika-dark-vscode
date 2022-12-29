@@ -17,7 +17,7 @@ Download From the VS Code Store: ***Comming Soon***
 **OR**
 
 Install the VSIX file:
-  1. Download the VSIX file: https://github.com/spotechyt/serika-dark/serika-dark.vsix
+  1. Download the VSIX file: ***Coming Soon***
   2. Go to the Extentions Tab (Ctrl+Shift+X)
   3. Click the three dots at the top of the tab
   4. Click "Install from VSIX..."
