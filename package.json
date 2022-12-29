@@ -6,9 +6,35 @@
   "engines": {
     "vscode": "^1.74.0"
   },
+  "author": {
+		"name": "Haniel Mikhaiel",
+		"email": "spotech@icloud.com"
+	},
   "categories": [
     "Themes"
   ],
+  "keywords": [
+		"dark",
+		"orange",
+    "yellow",
+		"black",
+		"accent",
+		"midnight",
+    "serika",
+    "monkey type",
+    "banana",
+    "monkey",
+    "grey"
+	],
+  "icon": "assets/Logo.jpg",
+  "repository": {
+		"url": "https://github.com/spotechyt/serika-dark.git",
+		"type": "git"
+	},
+  "bugs": {
+		"url": "https://github.com/spotechyt/serika-dark.git/issues",
+		"email": "spotech@icloud.com"
+	},
   "contributes": {
     "themes": [
       {
@@ -17,5 +43,11 @@
         "path": "./themes/Serika Dark-color-theme.json"
       }
     ]
-  }
+  },
+  "homepage": "https://github.com/spotechyt/serika-dark",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "galleryBanner": {
+		"color": "#e2b714",
+		"theme": "dark"
+	}
 }
