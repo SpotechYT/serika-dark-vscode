@@ -1,0 +1,21 @@
+{
+  "name": "serika-dark",
+  "displayName": "Serika Dark",
+  "description": "Looks like Monkey Type!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Serika Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Serika Dark-color-theme.json"
+      }
+    ]
+  }
+}
