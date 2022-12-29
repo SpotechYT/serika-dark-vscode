@@ -4,6 +4,8 @@
 
 Get the Matching Wallpapers: https://github.com/SpotechYT/serika-dark-wallpapers
 
+Have any suggestions? Want me to port this theme elsewhere? email me: hanielmikhaiel@gmail.com
+
 ### Python Code
 ![python](https://raw.githubusercontent.com/SpotechYT/serika-dark-vscode/main/assets/example_python.png)
 
