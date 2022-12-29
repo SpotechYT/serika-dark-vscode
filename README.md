@@ -12,12 +12,12 @@ With this color Palette (Excluding the background blue):
 ![colors](https://github.com/SpotechYT/serika-dark/blob/main/Serika-Dark.png?raw=true)
 
 ## To install
-Download From the VS Code Store: ***Comming Soon***
+Download From the VS Code Store: https://marketplace.visualstudio.com/manage/publishers/SpotechYT/extensions/serika-dark/hub
 
 **OR**
 
 Install the VSIX file:
-  1. Download the VSIX file: ***Coming Soon***
+  1. Download the VSIX file: https://github.com/SpotechYT/serika-dark/blob/main/serika-dark.vsix
   2. Go to the Extentions Tab (Ctrl+Shift+X)
   3. Click the three dots at the top of the tab
   4. Click "Install from VSIX..."
