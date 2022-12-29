@@ -1,15 +1,15 @@
-<p align="center"><img src="https://github.com/SpotechYT/serika-dark/blob/main/assets/Logo.jpg" height="200"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark/main/assets/Logo.jpg" height="200"></p>
 <h1 align="center">Serika Dark</h1>
 <p align="center">A theme bassed on Serika Dark theme on Monkey Type!</p>
 
 ### Python Code
-![python](https://github.com/SpotechYT/serika-dark/blob/main/assets/example_python.png)
+![python](https://raw.githubusercontent.com/SpotechYT/serika-dark/main/assets/example_python.png)
 
 Bassed on the Vs Code Github Theme: https://github.com/primer/github-vscode-theme
 
 With this color Palette (Excluding the background blue):
 
-![colors](https://github.com/SpotechYT/serika-dark/blob/main/assets/palette.png)
+![colors](https://raw.githubusercontent.com/SpotechYT/serika-dark/main/assets/palette.png)
 
 ## To install
 Download From the VS Code Store: https://marketplace.visualstudio.com/items?itemName=SpotechYT.serika-dark
