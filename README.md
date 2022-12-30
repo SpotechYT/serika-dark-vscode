@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/SpotechYT/Serika-Dark/main/Logo.jpg" height="200"></p>
-<h1 align="center">Serika Dark</h1>
+<h1 align="center">Serika Dark VS Code</h1>
 <p align="center">A Vs Code theme bassed on my Serika Dark Theme</p>
 
 Get the full Theme: https://github.com/SpotechYT/Serika-Dark
