@@ -6,8 +6,8 @@ Get the full Theme: https://github.com/SpotechYT/Serika-Dark
 
 Have any suggestions? Want me to port this theme elsewhere? email me: hanielmikhaiel@gmail.com
 
-### Python Code
-![python](https://raw.githubusercontent.com/SpotechYT/serika-dark-vscode/main/assets/example_python.png)
+### Screenshot
+![python](https://raw.githubusercontent.com/SpotechYT/serika-dark-vscode/main/assets/Screenshot.png)
 
 Bassed on the Vs Code Github Theme: https://github.com/primer/github-vscode-theme
 
